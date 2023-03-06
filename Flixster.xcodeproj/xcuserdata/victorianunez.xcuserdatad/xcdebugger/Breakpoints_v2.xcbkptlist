@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "958ADD29-F8D2-4AE8-8AD4-F5E7A65A2B29"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9333FEC-C3E6-4600-9F62-549A2B5E1B12"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flixster/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C9333FEC-C3E6-4600-9F62-549A2B5E1B12 - d889b8404c7a46b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixster.DetailViewController.movieBackdropView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorianunez/Desktop/Flixster/Flixster/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "C9333FEC-C3E6-4600-9F62-549A2B5E1B12 - 3d75dfd9fab41ab9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixster.DetailViewController.movieBackdropView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorianunez/Desktop/Flixster/Flixster/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "C9333FEC-C3E6-4600-9F62-549A2B5E1B12 - 6c82b1e8d986e1aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixster.DetailViewController.movieBackdropView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorianunez/Desktop/Flixster/Flixster/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "C9333FEC-C3E6-4600-9F62-549A2B5E1B12 - cf40a06c0325af7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixster.DetailViewController.movieBackdropView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorianunez/Desktop/Flixster/Flixster/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C9333FEC-C3E6-4600-9F62-549A2B5E1B12 - 660541597cde6d52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixster.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Flixster.DetailViewController"
+                  moduleName = "Flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorianunez/Desktop/Flixster/Flixster/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "C9333FEC-C3E6-4600-9F62-549A2B5E1B12 - 3cafe3697f31051e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixster.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Flixster.DetailViewController&gt;"
+                  moduleName = "Flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorianunez/Desktop/Flixster/Flixster/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

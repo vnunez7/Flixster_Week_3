@@ -7,23 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7D96E92C29C27C1500CD48A9 /* PostersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D96E92B29C27C1500CD48A9 /* PostersViewController.swift */; };
+		7D96E92E29C27D9000CD48A9 /* Poster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D96E92D29C27D9000CD48A9 /* Poster.swift */; };
+		7D96E93029C2803000CD48A9 /* PosterCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D96E92F29C2803000CD48A9 /* PosterCell.swift */; };
 		7DA5BE2F29B3CD3500D0FE24 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA5BE2E29B3CD3500D0FE24 /* AppDelegate.swift */; };
 		7DA5BE3129B3CD3500D0FE24 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA5BE3029B3CD3500D0FE24 /* SceneDelegate.swift */; };
-		7DA5BE3329B3CD3500D0FE24 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA5BE3229B3CD3500D0FE24 /* ViewController.swift */; };
 		7DA5BE3629B3CD3500D0FE24 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DA5BE3429B3CD3500D0FE24 /* Main.storyboard */; };
 		7DA5BE3829B3CD3700D0FE24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7DA5BE3729B3CD3700D0FE24 /* Assets.xcassets */; };
 		7DA5BE3B29B3CD3700D0FE24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DA5BE3929B3CD3700D0FE24 /* LaunchScreen.storyboard */; };
+		7DA5BE4329B3DBD100D0FE24 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA5BE4229B3DBD100D0FE24 /* MovieCell.swift */; };
+		7DA5BE4529B3DD3900D0FE24 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA5BE4429B3DD3900D0FE24 /* Movie.swift */; };
+		7DA5BE4729B3E35000D0FE24 /* MovieViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA5BE4629B3E35000D0FE24 /* MovieViewController.swift */; };
+		7DA5BE4929B3E4E300D0FE24 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA5BE4829B3E4E300D0FE24 /* DetailViewController.swift */; };
+		7DA5BE4C29B3F04F00D0FE24 /* Nuke in Frameworks */ = {isa = PBXBuildFile; productRef = 7DA5BE4B29B3F04F00D0FE24 /* Nuke */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7D96E92B29C27C1500CD48A9 /* PostersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostersViewController.swift; sourceTree = "<group>"; };
+		7D96E92D29C27D9000CD48A9 /* Poster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Poster.swift; sourceTree = "<group>"; };
+		7D96E92F29C2803000CD48A9 /* PosterCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PosterCell.swift; sourceTree = "<group>"; };
 		7DA5BE2B29B3CD3500D0FE24 /* Flixster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flixster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DA5BE2E29B3CD3500D0FE24 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7DA5BE3029B3CD3500D0FE24 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		7DA5BE3229B3CD3500D0FE24 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7DA5BE3529B3CD3500D0FE24 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7DA5BE3729B3CD3700D0FE24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7DA5BE3A29B3CD3700D0FE24 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7DA5BE3C29B3CD3700D0FE24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7DA5BE4229B3DBD100D0FE24 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		7DA5BE4429B3DD3900D0FE24 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
+		7DA5BE4629B3E35000D0FE24 /* MovieViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieViewController.swift; sourceTree = "<group>"; };
+		7DA5BE4829B3E4E300D0FE24 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +44,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7DA5BE4C29B3F04F00D0FE24 /* Nuke in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,9 +70,15 @@
 		7DA5BE2D29B3CD3500D0FE24 /* Flixster */ = {
 			isa = PBXGroup;
 			children = (
-				7DA5BE2E29B3CD3500D0FE24 /* AppDelegate.swift */,
+				7DA5BE4229B3DBD100D0FE24 /* MovieCell.swift */,
+				7DA5BE4429B3DD3900D0FE24 /* Movie.swift */,
+				7D96E92D29C27D9000CD48A9 /* Poster.swift */,
+				7D96E92F29C2803000CD48A9 /* PosterCell.swift */,
+				7DA5BE4629B3E35000D0FE24 /* MovieViewController.swift */,
+				7DA5BE4829B3E4E300D0FE24 /* DetailViewController.swift */,
+				7D96E92B29C27C1500CD48A9 /* PostersViewController.swift */,
 				7DA5BE3029B3CD3500D0FE24 /* SceneDelegate.swift */,
-				7DA5BE3229B3CD3500D0FE24 /* ViewController.swift */,
+				7DA5BE2E29B3CD3500D0FE24 /* AppDelegate.swift */,
 				7DA5BE3429B3CD3500D0FE24 /* Main.storyboard */,
 				7DA5BE3729B3CD3700D0FE24 /* Assets.xcassets */,
 				7DA5BE3929B3CD3700D0FE24 /* LaunchScreen.storyboard */,
@@ -83,6 +103,9 @@
 			dependencies = (
 			);
 			name = Flixster;
+			packageProductDependencies = (
+				7DA5BE4B29B3F04F00D0FE24 /* Nuke */,
+			);
 			productName = Flixster;
 			productReference = 7DA5BE2B29B3CD3500D0FE24 /* Flixster.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +134,9 @@
 				Base,
 			);
 			mainGroup = 7DA5BE2229B3CD3500D0FE24;
+			packageReferences = (
+				7DA5BE4A29B3F04F00D0FE24 /* XCRemoteSwiftPackageReference "Nuke" */,
+			);
 			productRefGroup = 7DA5BE2C29B3CD3500D0FE24 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -138,9 +164,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7DA5BE3329B3CD3500D0FE24 /* ViewController.swift in Sources */,
 				7DA5BE2F29B3CD3500D0FE24 /* AppDelegate.swift in Sources */,
+				7DA5BE4729B3E35000D0FE24 /* MovieViewController.swift in Sources */,
+				7D96E93029C2803000CD48A9 /* PosterCell.swift in Sources */,
+				7DA5BE4329B3DBD100D0FE24 /* MovieCell.swift in Sources */,
+				7DA5BE4929B3E4E300D0FE24 /* DetailViewController.swift in Sources */,
+				7D96E92E29C27D9000CD48A9 /* Poster.swift in Sources */,
 				7DA5BE3129B3CD3500D0FE24 /* SceneDelegate.swift in Sources */,
+				7D96E92C29C27C1500CD48A9 /* PostersViewController.swift in Sources */,
+				7DA5BE4529B3DD3900D0FE24 /* Movie.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -356,6 +388,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		7DA5BE4A29B3F04F00D0FE24 /* XCRemoteSwiftPackageReference "Nuke" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/kean/Nuke";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 9.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		7DA5BE4B29B3F04F00D0FE24 /* Nuke */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7DA5BE4A29B3F04F00D0FE24 /* XCRemoteSwiftPackageReference "Nuke" */;
+			productName = Nuke;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 7DA5BE2329B3CD3500D0FE24 /* Project object */;
 }
