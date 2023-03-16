@@ -24,9 +24,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the app:
 
-<img src='https://user-images.githubusercontent.com/80440872/225477262-0c5f4d9a-f91a-4a02-affa-33e82d5bfbc5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/80440872/225478414-f751fa5d-f95c-4fc9-8390-77990282e0d3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap
 
